@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package javaapplication2;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -9,10 +6,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
-/**
- *
- * @author hp
- */public class JavaApplication2 extends javax.swing.JFrame {
+public class JavaApplication2 extends javax.swing.JFrame {
  
     JavaApplication2() {
         JFrame frame = new JFrame();
